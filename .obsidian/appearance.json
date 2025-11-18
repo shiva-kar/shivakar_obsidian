@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Encore",
+  "accentColor": "",
+  "baseFontSize": 18,
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "centered-kanban"
+  ]
+}

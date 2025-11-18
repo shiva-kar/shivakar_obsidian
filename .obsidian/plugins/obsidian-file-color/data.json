@@ -1,0 +1,108 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "RUDE3F0lk5n7WH6_C6PRV",
+      "name": "Pink",
+      "value": "#fd1c94"
+    },
+    {
+      "id": "p6AM9WG9vKju8pGcpDBP_",
+      "name": "Sky",
+      "value": "#1c90fd"
+    },
+    {
+      "id": "qcOyOGBAfU1zXXoj1NWMg",
+      "name": "Red",
+      "value": "#ff1a1a"
+    },
+    {
+      "id": "PILaz3Ytir24b079ufm_P",
+      "name": "Orange",
+      "value": "#ff571f"
+    },
+    {
+      "id": "2J5KfpSgg3KARtyZXNe3m",
+      "name": "Yellow",
+      "value": "#f3d512"
+    },
+    {
+      "id": "5a0tszSMcO6kk7QRso9q6",
+      "name": "Green",
+      "value": "#22fb13"
+    },
+    {
+      "id": "ejW3MnRDfnQlTdq00qKli",
+      "name": "Blue",
+      "value": "#1933f5"
+    },
+    {
+      "id": "KC5zoyMtmMnRs44K2aGDM",
+      "name": "Violet",
+      "value": "#8100eb"
+    },
+    {
+      "id": "qx1dHsIfvGBw6JLz_qkyv",
+      "name": "Cyan",
+      "value": "#00e0f0"
+    },
+    {
+      "id": "I4EDEFRysGSfSc-4cO6H8",
+      "name": "Megenta",
+      "value": "#e60050"
+    },
+    {
+      "id": "5m8_8PebQmuydO9CKK7VW",
+      "name": "Light Bluish",
+      "value": "#b4e5fe"
+    },
+    {
+      "id": "CcOZDdbftC0HrvR1E0C-4",
+      "name": "Light Redish",
+      "value": "#fe6767"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "0. Assets",
+      "color": "qx1dHsIfvGBw6JLz_qkyv"
+    },
+    {
+      "path": "1. Amity Online",
+      "color": "PILaz3Ytir24b079ufm_P"
+    },
+    {
+      "path": "1st SemesterBCA",
+      "color": "2J5KfpSgg3KARtyZXNe3m"
+    },
+    {
+      "path": "01. important Items",
+      "color": "qcOyOGBAfU1zXXoj1NWMg"
+    },
+    {
+      "path": "PC Tech Tutorials",
+      "color": "2J5KfpSgg3KARtyZXNe3m"
+    },
+    {
+      "path": "Programming in C++",
+      "color": "5a0tszSMcO6kk7QRso9q6"
+    },
+    {
+      "path": "1st SemesterBCA/Computer and Information Technology",
+      "color": "PILaz3Ytir24b079ufm_P"
+    },
+    {
+      "path": "1st SemesterBCA/Programming in C",
+      "color": "5a0tszSMcO6kk7QRso9q6"
+    },
+    {
+      "path": "Programming in C#",
+      "color": "5m8_8PebQmuydO9CKK7VW"
+    },
+    {
+      "path": "Government Jobs",
+      "color": "I4EDEFRysGSfSc-4cO6H8"
+    }
+  ]
+}

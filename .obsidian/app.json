@@ -1,0 +1,16 @@
+{
+  "spellcheck": true,
+  "attachmentFolderPath": "0. Assets",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A3",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "promptDelete": false,
+  "useMarkdownLinks": false,
+  "readableLineLength": true,
+  "defaultViewMode": "preview",
+  "livePreview": false
+}

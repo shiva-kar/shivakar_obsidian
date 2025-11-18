@@ -1,0 +1,29 @@
+{
+  "palette": {
+    "seed": 6,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "ff00d0": 1,
+    "tools": 2,
+    "sub-tools": 3,
+    "excalidraw": 4,
+    "include": 5,
+    "define": 6,
+    "undef": 7,
+    "x": 8,
+    "note-taking": 9,
+    "obsidian": 10,
+    "pkm": 11,
+    "if": 12,
+    "ifndef": 13,
+    "pragma": 14
+  },
+  "_version": 3
+}

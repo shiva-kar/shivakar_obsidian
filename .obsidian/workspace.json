@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "2f374f34d18df433",
+    "type": "split",
+    "children": [
+      {
+        "id": "c82647d302c77ffb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baaa8df44dd951ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1st SemesterBCA/Computer and Information Technology/Modules Plan/Module 1 Assessment – CSIT.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Module 1 Assessment – CSIT"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7cf42545e5cb27c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "248e7dc25aa86644",
+        "type": "tabs",
+        "dimension": 73.31163547599675,
+        "children": [
+          {
+            "id": "1648366210ed4a83",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "176d9b5a8d563e78",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a6d71cafc8750f95",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e5054032bd04e55c",
+        "type": "tabs",
+        "dimension": 26.688364524003255,
+        "children": [
+          {
+            "id": "008cd05ac0829252",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "3156b915ba9f8572",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 352.01103591918945
+  },
+  "right": {
+    "id": "aa83e92e6f34f8d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4d776cdea5d46c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7adc9076728e2b8e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1st SemesterBCA/Topics Board.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Topics Board"
+            }
+          },
+          {
+            "id": "801e6aa12b9cc122",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1st SemesterBCA/Topics Board.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Topics Board"
+            }
+          },
+          {
+            "id": "52bdc669164ab488",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cd40d13c302b2190",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1st SemesterBCA/Computer and Information Technology/Modules Plan/Module 1 Assessment – CSIT.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Module 1 Assessment – CSIT"
+            }
+          },
+          {
+            "id": "81555e0eb60891bd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 447,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "obsidian-projects:Open projects": false,
+      "canvas:Create new canvas": false,
+      "obsidian-kanban:Create new board": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": false,
+      "audio-recorder:Start/stop recording": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "graph:Open graph view": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "baaa8df44dd951ee",
+  "lastOpenFiles": [
+    "ShivaStudyMain-Vault",
+    "0. Assets/Recording 20251118195231.m4a",
+    "1st SemesterBCA/BCA Notes/HCI/HCI unit 4 n 5.pdf",
+    "1st SemesterBCA/BCA Notes/HCI/HCI unit 5.pdf",
+    "1st SemesterBCA/BCA Notes/Maths/Basic Mathematics - 1 - Sample QP.pdf",
+    "1st SemesterBCA/BCA Notes/CSIT_/CSIT Notes.pdf",
+    "1st SemesterBCA/BCA Notes/C programming_/Programming_in_C (5).pdf",
+    "1st SemesterBCA/BCA Notes/C programming_/PROGRAMMING IN C.pdf",
+    "1st SemesterBCA/BCA Notes/C programming_/PDF_C_Programming_70_MCQs.pdf",
+    "1st SemesterBCA/Programming in C/Modules Plan/Module 1 Assessment –Programming in C.md",
+    "1st SemesterBCA/Drawboard.md",
+    "1st SemesterBCA/Computer and Information Technology/Modules Plan/Module 1 Assessment – CSIT.md",
+    "1st SemesterBCA/BCA Notes/C programming_/C Notes.pdf",
+    "1st SemesterBCA/Computer and Information Technology/Syllabus.png",
+    "0. Assets/0. Assets.md",
+    "1st SemesterBCA/Computer and Information Technology/Glossary.png",
+    "1st SemesterBCA/Programming in C/Syllabus.png",
+    "1st SemesterBCA/Programming in C/Programming in C Book.pdf",
+    "1st SemesterBCA/Programming in C/Complete C Language.md",
+    "1st SemesterBCA/Programming in C/Practice C Problems....md",
+    "01. important Items/GitHub README.md.md",
+    "1. Amity Online/Screenshot 2025-10-14 145259.png",
+    "1. Amity Online/Amity Info Mail.md",
+    "Government Jobs/Best Picks for YOU.md",
+    "Government Jobs/TOP GOVERNMENT JOBS FOR BCA  IT GRADUATES.md",
+    "Government Jobs/Career Options after BCA.md",
+    "Programming in C++/Complete C++ Language.md",
+    "Programming in C#/Complete C-Sharp Language — From Zero to Mastery (Updated for .NET 9).md",
+    "PC Tech Tutorials/🖥️ Comprehensive Keyboard Shortcuts Guide (200+ Shortcuts).md",
+    "1st SemesterBCA/Topics Board.md",
+    "1st SemesterBCA/Study Plan TODOs.md",
+    "Programming in C++/Complete C++ Programming.md",
+    "Scripts/Untitled.md",
+    "1st SemesterBCA/IdeaBoard.canvas",
+    "1st SemesterBCA/Programming in C/PFC UNIT PDFs/PFC ALL UNIT - Highlights.md",
+    "GameDev/IdeaBoard.md",
+    "1st SemesterBCA/Study Plan.md",
+    "GameDev/HorrorGP.md",
+    "Untitled.md",
+    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
+    "0. Assets/Screenshot 2025-10-13 112839.png",
+    "0. Assets/Screenshot 2025-10-13 112902.png",
+    "0. Assets/Screenshot 2025-10-13 112849.png",
+    "0. Assets/Screenshot 2025-10-13 112953.png",
+    "0. Assets/Screenshot 2025-10-13 112927.png",
+    "0. Assets/Screenshot 2025-10-13 112858.png",
+    "GameDev/IdeaCanvas.canvas",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,84 @@
+/* fix-long-kanban-text.css
+   Allow long text, preserve newlines, remove clamps, and prevent hover reflow.
+   Targets common Kanban plugin class names and Encore theme specifics.
+*/
+/* Center Kanban board view */
+.kanban-plugin__board {
+  display: flex;
+  justify-content: center;
+}
+
+
+/* Ensure card content preserves newlines and wraps */
+.kanban-card .kanban-card-content,
+.kanban-card__content,
+.kanban-plugin__card-content,
+.kanban-plugin__card .kanban-card-content,
+.kanban .card .content,
+.kanban .card .kanban-card-content {
+  white-space: pre-wrap !important;      /* preserve newlines and wrap */
+  word-break: break-word !important;     /* break very long words/URLs */
+  overflow: visible !important;          /* avoid clipping */
+  max-height: none !important;           /* remove any forced max height */
+  height: auto !important;
+  display: block !important;
+  box-sizing: border-box !important;
+  line-height: 1.25 !important;
+  -webkit-line-clamp: unset !important;  /* cancel any line-clamp */
+  -webkit-box-orient: unset !important;
+}
+
+/* If plugin uses different content selector (variants) */
+.kanban-card .content,
+.kanban-card .card-content,
+.kanban-plugin__card .content {
+  white-space: pre-wrap !important;
+  word-break: break-word !important;
+  overflow: visible !important;
+  max-height: none !important;
+  height: auto !important;
+}
+
+/* Remove hover transforms/shrink that can reflow text */
+.kanban-card,
+.kanban-plugin__card,
+.kanban .card {
+  transform: none !important;
+  transition: none !important;
+}
+
+/* In case Encore or other snippets apply line-clamp to titles/body */
+.kanban-card .kanban-card-title,
+.kanban-card .kanban-card-meta,
+.kanban-plugin__card .kanban-card-title {
+  -webkit-line-clamp: unset !important;
+  white-space: normal !important;
+  overflow: visible !important;
+}
+
+/* Ensure editable fields (if plugin uses contenteditable) expand */
+[contenteditable].kanban-card,
+.kanban-card [contenteditable],
+.kanban-plugin__card [contenteditable] {
+  min-height: 28px !important;
+  height: auto !important;
+  max-height: none !important;
+  overflow: visible !important;
+  white-space: pre-wrap !important;
+}
+
+/* Safety: keep layout tight but not clipping */
+.kanban-plugin__lane .kanban-card-list,
+.kanban-lane .kanban-card-list {
+  gap: 4px !important;
+  padding: 0 !important;
+}
+
+/* Encore specificity */
+.theme-encore .kanban-card .kanban-card-content,
+.theme-encore .kanban-plugin__card-content {
+  white-space: pre-wrap !important;
+  word-break: break-word !important;
+  max-height: none !important;
+  overflow: visible !important;
+}

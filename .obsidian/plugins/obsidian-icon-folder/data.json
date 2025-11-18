@@ -1,0 +1,60 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasSuitcase",
+      "SiCsharp",
+      "LiListTodo",
+      "TiCalendarTime",
+      "RiComputerFill"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "1. Amity Online": "TiBooks",
+  "1. Amity Online/Amity Info Mail.md": "TiStar",
+  "0. Assets": "FiLink",
+  "1st SemesterBCA": "RiCollageFill",
+  "1st SemesterBCA/Programming in C": "SiC",
+  "1st SemesterBCA/Topics Board.md": "LiAlignStartHorizontal",
+  "1st SemesterBCA/Drawboard.md": "RiArtboardFill",
+  "1st SemesterBCA/IdeaBoard.canvas": "LiRectangleVerticalDouble",
+  "01. important Items": "RiLockStarFill",
+  "PC Tech Tutorials": "CoLaptop",
+  "Programming in C++": "TiBrandCpp",
+  "1st SemesterBCA/Programming in C/Complete C Language.md": {
+    "iconName": "FasC",
+    "iconColor": "#6cfe62"
+  },
+  "1st SemesterBCA/Programming in C/Practice C Problems....md": {
+    "iconName": "FasC",
+    "iconColor": "#5cff77"
+  },
+  "1st SemesterBCA/Computer and Information Technology": "RiComputerFill",
+  "1st SemesterBCA/Study Plan TODOs.md": "LiListTodo",
+  "Programming in C#": "SiCsharp",
+  "Government Jobs": "FasSuitcase"
+}
