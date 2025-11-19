@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1st SemesterBCA/Computer and Information Technology/Modules Plan/Module 1 Assessment – CSIT.md",
+                "file": "Programming in C#/Complete Unity C-Sharp Game Development.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Module 1 Assessment – CSIT"
+              "title": "Complete Unity C-Sharp Game Development"
             }
           }
         ]
@@ -89,8 +89,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1st SemesterBCA/Computer and Information Technology/Modules Plan/Module 1 Assessment – CSIT.md",
+                "file": "Programming in C#/Complete Unity C-Sharp Game Development.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Module 1 Assessment – CSIT"
+              "title": "Outline of Complete Unity C-Sharp Game Development"
             }
           },
           {
@@ -187,8 +187,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -196,31 +196,35 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447,
-    "collapsed": true
+    "width": 447
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
+      "obsidian42-brat:BRAT": false,
       "obsidian-projects:Open projects": false,
       "canvas:Create new canvas": false,
-      "obsidian-kanban:Create new board": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "audio-recorder:Start/stop recording": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "graph:Open graph view": false,
       "markdown-importer:Open format converter": false,
-      "obsidian42-brat:BRAT": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "baaa8df44dd951ee",
   "lastOpenFiles": [
+    "Programming in C++/C++ Unreal.md",
+    "Programming in C#/Complete Unity C-Sharp Game Development.md",
+    "Programming in C++/Complete C++ Language.md",
+    "1st SemesterBCA/Computer and Information Technology/Modules Plan/Module 1 Assessment – CSIT.md",
+    "Programming in C#/Complete C-Sharp Language — From Zero to Mastery (Updated for .NET 9).md",
     "ShivaStudyMain-Vault",
     "0. Assets/Recording 20251118195231.m4a",
     "1st SemesterBCA/BCA Notes/HCI/HCI unit 4 n 5.pdf",
@@ -232,13 +236,11 @@
     "1st SemesterBCA/BCA Notes/C programming_/PDF_C_Programming_70_MCQs.pdf",
     "1st SemesterBCA/Programming in C/Modules Plan/Module 1 Assessment –Programming in C.md",
     "1st SemesterBCA/Drawboard.md",
-    "1st SemesterBCA/Computer and Information Technology/Modules Plan/Module 1 Assessment – CSIT.md",
     "1st SemesterBCA/BCA Notes/C programming_/C Notes.pdf",
     "1st SemesterBCA/Computer and Information Technology/Syllabus.png",
     "0. Assets/0. Assets.md",
     "1st SemesterBCA/Computer and Information Technology/Glossary.png",
     "1st SemesterBCA/Programming in C/Syllabus.png",
-    "1st SemesterBCA/Programming in C/Programming in C Book.pdf",
     "1st SemesterBCA/Programming in C/Complete C Language.md",
     "1st SemesterBCA/Programming in C/Practice C Problems....md",
     "01. important Items/GitHub README.md.md",
@@ -247,8 +249,6 @@
     "Government Jobs/Best Picks for YOU.md",
     "Government Jobs/TOP GOVERNMENT JOBS FOR BCA  IT GRADUATES.md",
     "Government Jobs/Career Options after BCA.md",
-    "Programming in C++/Complete C++ Language.md",
-    "Programming in C#/Complete C-Sharp Language — From Zero to Mastery (Updated for .NET 9).md",
     "PC Tech Tutorials/🖥️ Comprehensive Keyboard Shortcuts Guide (200+ Shortcuts).md",
     "1st SemesterBCA/Topics Board.md",
     "1st SemesterBCA/Study Plan TODOs.md",
@@ -261,7 +261,6 @@
     "GameDev/HorrorGP.md",
     "Untitled.md",
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
-    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
     "0. Assets/Screenshot 2025-10-13 112839.png",
     "0. Assets/Screenshot 2025-10-13 112902.png",
     "0. Assets/Screenshot 2025-10-13 112849.png",
