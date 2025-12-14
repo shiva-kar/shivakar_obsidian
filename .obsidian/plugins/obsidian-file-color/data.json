@@ -20,7 +20,7 @@
     {
       "id": "PILaz3Ytir24b079ufm_P",
       "name": "Orange",
-      "value": "#ff571f"
+      "value": "#fe7648"
     },
     {
       "id": "2J5KfpSgg3KARtyZXNe3m",
@@ -85,10 +85,6 @@
       "color": "2J5KfpSgg3KARtyZXNe3m"
     },
     {
-      "path": "Programming in C++",
-      "color": "5a0tszSMcO6kk7QRso9q6"
-    },
-    {
       "path": "1st SemesterBCA/Computer and Information Technology",
       "color": "PILaz3Ytir24b079ufm_P"
     },
@@ -97,12 +93,16 @@
       "color": "5a0tszSMcO6kk7QRso9q6"
     },
     {
-      "path": "Programming in C#",
+      "path": "Government Jobs",
+      "color": "I4EDEFRysGSfSc-4cO6H8"
+    },
+    {
+      "path": "Programming in C++",
       "color": "5m8_8PebQmuydO9CKK7VW"
     },
     {
-      "path": "Government Jobs",
-      "color": "I4EDEFRysGSfSc-4cO6H8"
+      "path": "Programming in C#",
+      "color": "qx1dHsIfvGBw6JLz_qkyv"
     }
   ]
 }

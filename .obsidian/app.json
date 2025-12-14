@@ -12,5 +12,6 @@
   "useMarkdownLinks": false,
   "readableLineLength": true,
   "defaultViewMode": "preview",
-  "livePreview": false
+  "livePreview": false,
+  "showLineNumber": false
 }

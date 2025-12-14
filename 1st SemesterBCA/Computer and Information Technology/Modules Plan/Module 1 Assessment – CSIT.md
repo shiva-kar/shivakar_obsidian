@@ -222,10 +222,6 @@
 
 **A:** The Memory Buffer/Data Register holds the actual data that is being transferred to or from memory.
 
-Proceeding with the next batch.  
-**Short Answer Questions with Answers.**  
-Same format: **Question → Answer → Next.**
-
 ---
 
 ## **SECTION B — SHORT ANSWER QUESTIONS (WITH ANSWERS)**

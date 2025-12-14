@@ -10,20 +10,13 @@
     "highTextContrast": false
   },
   "knownTags": {
-    "ff00d0": 1,
-    "tools": 2,
-    "sub-tools": 3,
-    "excalidraw": 4,
-    "include": 5,
     "define": 6,
-    "undef": 7,
-    "x": 8,
-    "note-taking": 9,
-    "obsidian": 10,
-    "pkm": 11,
-    "if": 12,
-    "ifndef": 13,
-    "pragma": 14
+    "else": 17,
+    "endif": 16,
+    "excalidraw": 4,
+    "ifdef": 15,
+    "ifndef": 13
   },
-  "_version": 3
+  "tagColors": {},
+  "_version": 4
 }
