@@ -11,15 +11,12 @@
             "id": "baaa8df44dd951ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "1st SemesterBCA/Programming in C/Practice C Problems....md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "file": "1st SemesterBCA/Drawboard.md"
               },
-              "icon": "lucide-file",
-              "title": "Practice C Problems..."
+              "icon": "excalidraw-icon",
+              "title": "Drawboard"
             }
           }
         ]
@@ -107,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.01103591918945
+    "width": 352.01103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "aa83e92e6f34f8d2",
@@ -171,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1st SemesterBCA/Programming in C/Practice C Problems....md",
+                "file": "1st SemesterBCA/Drawboard.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Practice C Problems..."
+              "title": "Outline of Drawboard"
             }
           },
           {
@@ -195,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 459
+    "width": 459,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,25 +218,31 @@
   },
   "active": "baaa8df44dd951ee",
   "lastOpenFiles": [
+    "1st SemesterBCA/Study Plan.md",
+    "1st SemesterBCA/IdeaBoard.canvas",
     "1st SemesterBCA/Drawboard.md",
-    "1st SemesterBCA/Computer and Information Technology/Modules Plan/Module 1 Assessment – CSIT.md",
-    "1st SemesterBCA/Programming in C/Modules Plan/Preparation – Programming in C.md",
-    "1st SemesterBCA/Programming in C/Practice C Problems....md",
-    "1st SemesterBCA/Programming in C/Complete C Language.md",
-    "1st SemesterBCA/Programming in C/PFC UNIT PDFs/PFC UNIT - 5.pdf",
-    "1st SemesterBCA/Programming in C/PFC UNIT PDFs/PFC UNIT - 3.pdf",
-    "1st SemesterBCA/Programming in C/PFC UNIT PDFs/PFC UNIT - 2.pdf",
-    "1st SemesterBCA/Programming in C/PFC UNIT PDFs/PFC UNIT - 1.pdf",
-    "1st SemesterBCA/Programming in C/PFC UNIT PDFs/PFC ALL UNIT - Highlights.md",
-    "1st SemesterBCA/Programming in C/C_Programming_Notes.pdf",
-    "1st SemesterBCA/Programming in C/Programming in C Book.pdf",
-    "1st SemesterBCA/Programming in C/Syllabus.png",
-    "1st SemesterBCA/BCA Notes/HCI/HCI Notes (1).pdf",
+    "1st SemesterBCA/MASTER EXAM RESOURCE FILE.md",
+    "1st SemesterBCA/BCA Notes/Sample Papers_/C Programming Qs/18cps132.pdf",
+    "1st SemesterBCA/BCA Notes/Sample Papers_/BC Qs/bca106.pdf",
+    "1st SemesterBCA/BCA Notes/Sample Papers_/BC Qs/BBA-06_240.pdf",
     "1st SemesterBCA/BCA Notes/Maths/Basic Mathematics - 1 - Sample QP.pdf",
+    "1st SemesterBCA/BCA Notes/C programming_/Programming_in_C (5).pdf",
+    "1st SemesterBCA/BCA Notes/CSIT_/CSIT Notes.pdf",
+    "1st SemesterBCA/BCA Notes/HCI/HCI unit 5.pdf",
+    "1st SemesterBCA/BCA Notes/HCI/HCI unit 4 n 5.pdf",
+    "1st SemesterBCA/BCA Notes/HCI/HCI unit 2.pdf",
+    "1st SemesterBCA/BCA Notes/HCI/HCI Notes (1).pdf",
+    "1st SemesterBCA/HCI/HCI Exact Video Links.md",
+    "1st SemesterBCA/Maths/Full maths roadmap.md",
+    "1st SemesterBCA/Computer and Information Technology/Modules Plan/All comprehensive topics~.md",
+    "1st SemesterBCA/Computer and Information Technology/Modules Plan/Module 1 Assessment – CSIT.md",
+    "1st SemesterBCA/Programming in C/Practice C Problems....md",
+    "1st SemesterBCA/Programming in C/Modules Plan/Preparation – Programming in C.md",
+    "1st SemesterBCA/Programming in C/Complete C Language.md",
+    "1st SemesterBCA/Programming in C/PFC UNIT PDFs/PFC ALL UNIT - Highlights.md",
+    "1st SemesterBCA/Programming in C/Syllabus.png",
     "1st SemesterBCA/Programming in C/Modules Plan/M2.md",
     "Programming in C++/C++ Unreal.md",
-    "Programming in C/PFC UNIT PDFs/PFC UNIT - 5.pdf",
-    "Programming in C/PFC UNIT PDFs/PFC UNIT - 4.pdf",
     "Programming in C/PFC UNIT PDFs/PFC ALL UNIT - Highlights.md",
     "Programming in C/Modules Plan/Module 1 Assessment –Programming in C.md",
     "Programming in C/Syllabus.png",
@@ -254,12 +259,6 @@
     "1st SemesterBCA/Computer and Information Technology/Glossary.png",
     "1. Amity Online/Screenshot 2025-10-14 145259.png",
     "1. Amity Online/Amity Info Mail.md",
-    "Government Jobs/Best Picks for YOU.md",
-    "Government Jobs/TOP GOVERNMENT JOBS FOR BCA  IT GRADUATES.md",
-    "Government Jobs/Career Options after BCA.md",
-    "PC Tech Tutorials/🖥️ Comprehensive Keyboard Shortcuts Guide (200+ Shortcuts).md",
-    "1st SemesterBCA/Topics Board.md",
-    "1st SemesterBCA/IdeaBoard.canvas",
     "0. Assets/Screenshot 2025-10-13 112839.png",
     "0. Assets/Screenshot 2025-10-13 112902.png",
     "0. Assets/Screenshot 2025-10-13 112849.png",

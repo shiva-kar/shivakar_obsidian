@@ -4,6 +4,17 @@
 		"frontmatter":{},
 		"startNode":"70050727801620bb"
 	},
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"0fd2c19a808f96e0",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-140,
+			"y":-440,
+			"width":260,
+			"height":60
+		}
+	],
 	"edges":[]
 }

@@ -2,7 +2,7 @@
   "cssTheme": "Encore",
   "accentColor": "",
   "baseFontSize": 18,
-  "theme": "obsidian",
+  "theme": "system",
   "baseFontSizeAction": true,
   "nativeMenus": false,
   "enabledCssSnippets": [

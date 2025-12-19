@@ -10,7 +10,7 @@
   },
   "promptDelete": false,
   "useMarkdownLinks": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "defaultViewMode": "preview",
   "livePreview": false,
   "showLineNumber": false

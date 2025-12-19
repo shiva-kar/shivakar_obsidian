@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabQuinscape",
+      "TiMathSymbols",
+      "RiSpeakLine",
       "FasSuitcase",
-      "SiCsharp",
-      "LiListTodo",
-      "TiCalendarTime",
-      "RiComputerFill"
+      "SiCsharp"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -56,5 +56,8 @@
   "1st SemesterBCA/Computer and Information Technology": "RiComputerFill",
   "1st SemesterBCA/Study Plan TODOs.md": "LiListTodo",
   "Programming in C#": "SiCsharp",
-  "Government Jobs": "FasSuitcase"
+  "Government Jobs": "FasSuitcase",
+  "1st SemesterBCA/BC": "RiSpeakLine",
+  "1st SemesterBCA/Maths": "TiMathSymbols",
+  "1st SemesterBCA/HCI": "FabQuinscape"
 }
