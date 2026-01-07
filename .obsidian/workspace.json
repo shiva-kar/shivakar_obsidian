@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c82647d302c77ffb",
+        "id": "89258b67b5d72eae",
         "type": "tabs",
         "children": [
           {
-            "id": "baaa8df44dd951ee",
+            "id": "a352bb2c748b3f63",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "1st SemesterBCA/Drawboard.md"
+                "file": "1st SemesterBCA/HCI/Module I- Introduction to Interaction Design - Exam Study Guide.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawboard"
+              "icon": "lucide-file",
+              "title": "Module I- Introduction to Interaction Design - Exam Study Guide"
             }
           }
         ]
@@ -104,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.01103591918945,
-    "collapsed": true
+    "width": 352.01103591918945
   },
   "right": {
     "id": "aa83e92e6f34f8d2",
@@ -169,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1st SemesterBCA/Drawboard.md",
+                "file": "1st SemesterBCA/HCI/Module I- Introduction to Interaction Design - Exam Study Guide.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawboard"
+              "title": "Outline of Module I- Introduction to Interaction Design - Exam Study Guide"
             }
           },
           {
@@ -193,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 459,
-    "collapsed": true
+    "width": 459
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,29 +214,39 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "edge-tts:Read note aloud": false
     }
   },
-  "active": "baaa8df44dd951ee",
+  "active": "a352bb2c748b3f63",
   "lastOpenFiles": [
+    "Government Jobs/Career Options after BCA.md",
+    "1st SemesterBCA/HCI/Module I- Introduction to Interaction Design - Exam Study Guide.md",
+    "1st SemesterBCA/Computer and Information Technology/Modules Plan/All comprehensive topics~.md",
+    "1st SemesterBCA/Computer and Information Technology/Modules Plan/Module 1 Assessment – CSIT.md",
+    "1st SemesterBCA/Maths/Full maths roadmap.md",
+    "1st SemesterBCA/HCI/HCI Exact Video Links.md",
+    "1st SemesterBCA/HCI/HUMAN COMPUTER INTERACTION (HCI).md",
+    "1st SemesterBCA/HCI/Module V- Research Frameworks.md",
+    "1st SemesterBCA/HCI/Module IV- Models and Theories.md",
+    "1st SemesterBCA/HCI/Module III - Evaluation & Usability Testing.md",
+    "1st SemesterBCA/HCI/Module II- Design and Software Process.md",
+    "1st SemesterBCA/HCI/Questions.md",
+    "1st SemesterBCA/MASTER EXAM RESOURCE FILE.md",
+    "1st SemesterBCA/BCA Notes/CSIT_/CSIT Notes.pdf",
+    "1st SemesterBCA/BCA Notes/BC/Business Communication Notes (2).pdf",
+    "1. Amity Online/Academic Calendar_ Sem I.pdf",
+    "0. Assets/Recording 20251118195231.m4a",
+    "1st SemesterBCA/HCI/Answers.md",
+    "1st SemesterBCA/BCA Notes/HCI/HCI Notes (1).pdf",
+    "1st SemesterBCA/BCA Notes/HCI/HCI UNIT 1 AND 2.pdf",
+    "1st SemesterBCA/Drawboard.md",
     "1st SemesterBCA/Study Plan.md",
     "1st SemesterBCA/IdeaBoard.canvas",
-    "1st SemesterBCA/Drawboard.md",
-    "1st SemesterBCA/MASTER EXAM RESOURCE FILE.md",
     "1st SemesterBCA/BCA Notes/Sample Papers_/C Programming Qs/18cps132.pdf",
     "1st SemesterBCA/BCA Notes/Sample Papers_/BC Qs/bca106.pdf",
     "1st SemesterBCA/BCA Notes/Sample Papers_/BC Qs/BBA-06_240.pdf",
     "1st SemesterBCA/BCA Notes/Maths/Basic Mathematics - 1 - Sample QP.pdf",
-    "1st SemesterBCA/BCA Notes/C programming_/Programming_in_C (5).pdf",
-    "1st SemesterBCA/BCA Notes/CSIT_/CSIT Notes.pdf",
-    "1st SemesterBCA/BCA Notes/HCI/HCI unit 5.pdf",
-    "1st SemesterBCA/BCA Notes/HCI/HCI unit 4 n 5.pdf",
-    "1st SemesterBCA/BCA Notes/HCI/HCI unit 2.pdf",
-    "1st SemesterBCA/BCA Notes/HCI/HCI Notes (1).pdf",
-    "1st SemesterBCA/HCI/HCI Exact Video Links.md",
-    "1st SemesterBCA/Maths/Full maths roadmap.md",
-    "1st SemesterBCA/Computer and Information Technology/Modules Plan/All comprehensive topics~.md",
-    "1st SemesterBCA/Computer and Information Technology/Modules Plan/Module 1 Assessment – CSIT.md",
     "1st SemesterBCA/Programming in C/Practice C Problems....md",
     "1st SemesterBCA/Programming in C/Modules Plan/Preparation – Programming in C.md",
     "1st SemesterBCA/Programming in C/Complete C Language.md",
@@ -248,17 +259,9 @@
     "Programming in C/Syllabus.png",
     "Programming in C/Practice C Problems....md",
     "Programming in C/Complete C Language.md",
-    "01. important Items/Untitled.md",
-    "01. important Items/GitHub README.md.md",
-    "Programming in C#/Complete Unity C-Sharp Game Development.md",
-    "Programming in C++/Complete C++ Language.md",
-    "Programming in C.md",
-    "Programming in C#/Complete C-Sharp Language — From Zero to Mastery (Updated for .NET 9).md",
     "1st SemesterBCA/Computer and Information Technology/Syllabus.png",
-    "0. Assets/0. Assets.md",
     "1st SemesterBCA/Computer and Information Technology/Glossary.png",
     "1. Amity Online/Screenshot 2025-10-14 145259.png",
-    "1. Amity Online/Amity Info Mail.md",
     "0. Assets/Screenshot 2025-10-13 112839.png",
     "0. Assets/Screenshot 2025-10-13 112902.png",
     "0. Assets/Screenshot 2025-10-13 112849.png",
