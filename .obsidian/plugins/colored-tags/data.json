@@ -13,7 +13,6 @@
     "define": 1,
     "else": 2,
     "endif": 3,
-    "excalidraw": 4,
     "ifdef": 5,
     "ifndef": 6
   },
