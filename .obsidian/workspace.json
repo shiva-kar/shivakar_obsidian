@@ -11,12 +11,15 @@
             "id": "4df756a2e3c21ac1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "03. 1st SemesterBCA/01. Programming in C/PFC UNIT PDFs/PFC UNIT - 1.pdf"
+                "file": "Timetable s2.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "PFC UNIT - 1"
+              "icon": "lucide-file",
+              "title": "Timetable s2"
             }
           }
         ]
@@ -169,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. 1st SemesterBCA/01. Programming in C/PFC UNIT PDFs/PFC UNIT - 1.pdf",
+                "file": "03. 1st SemesterBCA/Untitled.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PFC UNIT - 1"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -213,45 +216,45 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4df756a2e3c21ac1",
+  "active": "1648366210ed4a83",
   "lastOpenFiles": [
-    "03. 1st SemesterBCA/01. Programming in C/PFC UNIT PDFs/PFC ALL UNIT - Highlights.md",
+    "01. important Items/GitHub README.md.md",
+    "03. 1st SemesterBCA/Untitled.md",
+    "Programming in C++/C++ Unreal.md",
+    "Timetable s2.md",
+    "Timeline.md",
+    "5 - Year Software Engineering Roadmap (C, C++, Java, CSharp, Python).md",
+    "01. Amity Online/Amity- Assessment_schema_PG_and_UG_-Jan-2025 Onwards.pdf",
+    "01. Amity Online/Amity Info Mail.md",
+    "02. Amity Online/Academic Calendar_ Sem I.pdf",
+    "02. 1st SemesterBCA/01. Programming in C/Snake Game.md",
+    "02. 1st SemesterBCA/01. Programming in C/Syllabus.png",
+    "03. 1st SemesterBCA/01. Programming in C/Programming in C Book.pdf",
+    "02. 1st SemesterBCA/01. Programming in C/Practice C Problems....md",
+    "02. 1st SemesterBCA/01. Programming in C/Data Structurers.md",
+    "02. 1st SemesterBCA/02. Maths/Full maths roadmap.md",
+    "02. 1st SemesterBCA/03. Computer and Information Technology/Modules Plan/All comprehensive topics~.md",
+    "02. 1st SemesterBCA/05. BC/Exam Study Guide- Module 1 ~ Essential English Grammar.md",
+    "02. 1st SemesterBCA/01. Programming in C/PFC UNIT PDFs/PFC UNIT - 1.pdf",
+    "02. 1st SemesterBCA/01. Programming in C/PFC UNIT PDFs/PFC ALL UNIT - Highlights.md",
     "03. 1st SemesterBCA/00. BCA Notes/Maths/Basic Mathematics - 1 - Sample QP.pdf",
     "03. 1st SemesterBCA/00. BCA Notes/CSIT_/CSIT Notes.pdf",
     "03. 1st SemesterBCA/00. BCA Notes/C programming_/Let us c - yashwantkanetkar.pdf",
     "03. 1st SemesterBCA/00. BCA Notes/C programming_/Expert_C_Programming.pdf",
     "03. 1st SemesterBCA/00. BCA Notes/C programming_/C Notes.pdf",
     "03. 1st SemesterBCA/00. BCA Notes/BC/Business Communication Notes (2).pdf",
-    "03. 1st SemesterBCA/##. 1st SEM BOOKS/Computer Science  IT .pdf",
-    "03. 1st SemesterBCA/##. 1st SEM BOOKS/Basic mathematics-I .pdf",
-    "02. Amity Online/Amity- Assessment_schema_PG_and_UG_-Jan-2025 Onwards.pdf",
-    "02. Amity Online/Amity Info Mail.md",
-    "02. Amity Online/Academic Calendar_ Sem I.pdf",
-    "01. important Items/GitHub README.md.md",
-    "03. 1st SemesterBCA/01. Programming in C/C Keywords Explain.md",
-    "03. 1st SemesterBCA/01. Programming in C/Complete C Language.md",
-    "03. 1st SemesterBCA/01. Programming in C/Data Structurers.md",
-    "03. 1st SemesterBCA/01. Programming in C/Practice C Problems....md",
-    "03. 1st SemesterBCA/01. Programming in C/Snake Game.md",
-    "03. 1st SemesterBCA/01. Programming in C/Syllabus.png",
-    "5 - Year Software Engineering Roadmap (C, C++, Java, CSharp, Python).md",
-    "Timeline.md",
-    "03. 1st SemesterBCA/05. BC/Exam Study Guide- Module 4 ~ Effective Presentation.md",
-    "03. 1st SemesterBCA/05. BC/Exam Study Guide- Module 5 ~ Employment Communication.md",
-    "03. 1st SemesterBCA/05. BC/Exam Study Guide- Module 3 ~ Concept and Nature of Communication.md",
-    "03. 1st SemesterBCA/05. BC/Exam Study Guide- Module 2 ~ Written English Communication.md",
-    "03. 1st SemesterBCA/05. BC/Exam Study Guide- Module 1 ~ Essential English Grammar.md",
+    "02. 1st SemesterBCA/01. Programming in C/C Keywords Explain.md",
+    "02. 1st SemesterBCA/01. Programming in C/Complete C Language.md",
+    "02. 1st SemesterBCA/05. BC/Exam Study Guide- Module 4 ~ Effective Presentation.md",
+    "02. 1st SemesterBCA/05. BC/Exam Study Guide- Module 5 ~ Employment Communication.md",
+    "02. 1st SemesterBCA/05. BC/Exam Study Guide- Module 3 ~ Concept and Nature of Communication.md",
+    "02. 1st SemesterBCA/05. BC/Exam Study Guide- Module 2 ~ Written English Communication.md",
     "Government Jobs/TOP GOVERNMENT JOBS FOR BCA  IT GRADUATES.md",
     "Government Jobs/Career Options after BCA.md",
     "PC Tech Tutorials/🖥️ Comprehensive Keyboard Shortcuts Guide (200+ Shortcuts).md",
     "Programming in C#/Complete Unity C-Sharp Game Development.md",
     "Programming in C#/Complete C-Sharp Language — From Zero to Mastery (Updated for .NET 9).md",
-    "03. 1st SemesterBCA/01. Programming in C/Modules Plan/Preparation – Programming in C.md",
-    "03. 1st SemesterBCA/02. Maths/Full maths roadmap.md",
-    "03. 1st SemesterBCA/03. Computer and Information Technology/Modules Plan/All comprehensive topics~.md",
-    "03. 1st SemesterBCA/04. HCI/Module IV- Models and Theories.md",
-    "03. 1st SemesterBCA/04. HCI/Module II- Design and Software Process.md",
-    "03. 1st SemesterBCA/04. HCI/Module I- Introduction to Interaction Design - Exam Study Guide.md",
+    "02. 1st SemesterBCA/01. Programming in C/Modules Plan/Preparation – Programming in C.md",
     "03. 1st SemesterBCA/IdeaBoard.canvas",
     "1st SemesterBCA/IdeaBoard.canvas",
     "1st SemesterBCA/Programming in C/Syllabus.png",
