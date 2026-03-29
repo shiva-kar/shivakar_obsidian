@@ -29,3 +29,9 @@ Many workers, shared state hazards, explicit synchronization.
 ## Legacy Notes (archived)
 - Use `std::filesystem`, `std::thread`, `std::chrono` instead of OS calls.
 LDFLAGS = -lm -lpthread
+
+
+## Questions
+- When should I use this instead of an alternative?
+- What edge case is most likely to break this approach?
+

@@ -39,3 +39,9 @@ int main() {
     boost::asio::write(socket, boost::asio::buffer("Hello, Client\n"));
 }
 ```
+
+
+## Questions
+- When should I use this instead of an alternative?
+- What edge case is most likely to break this approach?
+

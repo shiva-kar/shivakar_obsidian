@@ -100,3 +100,9 @@ int main(int argc, char *argv[]) {
 ## 21 1 inline function definition 2
 
 ### 21.1 Inline Functi
+
+
+## Questions
+- When should I use this instead of an alternative?
+- What edge case is most likely to break this approach?
+

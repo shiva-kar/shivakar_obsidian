@@ -29,3 +29,9 @@ One-line mental picture for quick recall.
 # Processes
 
 OS process model, lifecycle, and context switching.
+
+
+## Questions
+- When should I use this instead of an alternative?
+- What edge case is most likely to break this approach?
+

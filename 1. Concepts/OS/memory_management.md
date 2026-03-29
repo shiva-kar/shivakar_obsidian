@@ -29,3 +29,9 @@ One-line mental picture for quick recall.
 # Memory Management
 
 Virtual memory, paging, allocation strategies.
+
+
+## Questions
+- When should I use this instead of an alternative?
+- What edge case is most likely to break this approach?
+

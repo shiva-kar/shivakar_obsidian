@@ -47,3 +47,9 @@ Measure first, then optimize bottlenecks.
 84. [ ] Circular Buffer *(revisit optimized)*
 ## installation compiler setup
 ## Installation & Compiler Setup
+
+
+## Questions
+- When should I use this instead of an alternative?
+- What edge case is most likely to break this approach?
+
