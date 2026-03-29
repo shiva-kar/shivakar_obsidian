@@ -1,1 +1,0 @@
-## 52. Design Patterns (C++ Implementation)

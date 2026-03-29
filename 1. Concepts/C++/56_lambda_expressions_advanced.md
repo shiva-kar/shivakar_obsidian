@@ -1,1 +1,0 @@
-## 56. Lambda Expressions Advanced

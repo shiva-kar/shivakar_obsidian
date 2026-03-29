@@ -1,1 +1,0 @@
-## 71. C++ Software Architecture Principles
