@@ -31,3 +31,9 @@ Space: O(1)
 ## Related
 - [[../../1. Concepts/C/pointers]]
 - [[../../1. Concepts/C/structs]]
+
+
+## Related Concepts
+- [[../../1. Concepts/DSA/linked_list]]
+- [[../../1. Concepts/C/pointers]]
+

@@ -1,7 +1,13 @@
 # Advanced Topics
 
-- [[advanced/concurrency]]
-- [[advanced/optimization]]
+- [[advanced/architecture]]
+- [[advanced/interoperability]]
+- [[advanced/tooling]]
+
+
+## 56 lambda expressions advanced
+
+## 56. Lambda Expressions Advanced
 
 
 ## Core Idea
@@ -29,7 +35,7 @@ Real engineering problem this concept solves.
 
 
 ## Related
-- [[pointers]]
+- [[templates]]
+- [[stl]]
 - [[memory_management]]
-- [[functions]]
 

@@ -13,6 +13,28 @@
 - [[C/file_io]]
 - [[C/advanced_topics]]
 
+## C++
+- [[C++/basics]]
+- [[C++/control_flow]]
+- [[C++/functions]]
+- [[C++/classes_oop]]
+- [[C++/memory_management]]
+- [[C++/stl]]
+- [[C++/templates]]
+- [[C++/concurrency]]
+- [[C++/file_io]]
+- [[C++/advanced_topics]]
+
+## DSA
+- [[DSA/arrays]]
+- [[DSA/linked_list]]
+- [[DSA/stack_queue]]
+- [[DSA/trees]]
+- [[DSA/graphs]]
+- [[DSA/sorting]]
+- [[DSA/searching]]
+- [[DSA/bit_manipulation]]
+
 ## Networking
 - [[Networking/tcp_ip]]
 - [[Networking/sockets]]

@@ -28,3 +28,9 @@ One-line mental picture for quick recall.
 # HTTP
 
 HTTP notes and request/response model.
+
+
+## Questions
+- When should I use this instead of an alternative?
+- What edge case is most likely to break this approach?
+

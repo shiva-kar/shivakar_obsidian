@@ -1,11 +1,17 @@
-# Advanced Topics
-
-- [[advanced/concurrency]]
-- [[advanced/optimization]]
-
+# trees
 
 ## Core Idea
-Short, practical explanation of the concept.
+Problem-oriented DSA concept note.
+
+## Typical Problems
+- Add canonical problems here.
+
+## Legacy Notes (archived)
+
+### 40 advanced data structures
+
+## 40. Advanced Data Structures
+
 
 
 ## Why it exists
@@ -29,7 +35,7 @@ Real engineering problem this concept solves.
 
 
 ## Related
-- [[pointers]]
-- [[memory_management]]
-- [[functions]]
+- [[arrays]]
+- [[linked_list]]
+- [[sorting]]
 
