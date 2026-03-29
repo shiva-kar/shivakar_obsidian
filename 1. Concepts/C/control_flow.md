@@ -1,3 +1,36 @@
+# Control Flow
+
+## Core Idea
+Control flow decides which code runs and when.
+
+## Why it exists
+Programs need decisions and repetition to solve real problems.
+
+## Mental Model
+Like traffic routing: conditions choose roads, loops repeat routes.
+
+## Code Pattern
+~~~c
+for (int i = 0; i < n; i++) {
+    if (arr[i] % 2 == 0) continue;
+    printf("%d\\n", arr[i]);
+}
+~~~
+
+## Common Mistakes
+- Infinite loops by bad conditions
+- Deep nesting reducing readability
+
+## Interview Angle
+- while vs for usage
+- break/continue behavior
+
+## Related
+- [[operators]]
+- [[functions]]
+- [[arrays]]
+
+## Legacy Notes (archived)
 # control flow
 
 Merged from legacy micro-notes.
@@ -64,76 +97,4 @@ Merged from legacy micro-notes.
 - `if` inside another `if` or `else`
 - Enables hierarchical condition checks
 - Allows detailed decision paths
-- Deep nesting can reduce readability
-
-## 4 8 logical operators
-
-### 4.8 Logical Operators
-- `&&`: AND (all conditions must be true)
-- `||`: OR (at least one condition true)
-- `!`: NOT (inverts condition)
-- Lower priority than arithmetic/comparison
-
-## 4 9 ternary operator
-
-### 4.9 Ternary Operator
-- Syntax: `condition ? expression1 : expression2`
-- Boolean condition evaluation
-- Both expressions must return compatible types
-- Good for simple assignments
-
-## 4 decision control structure
-
-## 4. Decision Control Structure
-
-## 5 2 while loop
-
-### 5.2 While Loop
-- Repeats while condition is true
-- Used for non-standard conditions
-- Must include update to avoid infinite loops
-
-## 5 3 for loop
-
-### 5.3 For Loop
-- Standard loop for counting iterations
-- Preferred when number of iterations known
-- Syntax: `for (initialization; condition; update)`
-
-## 5 4 break statement
-
-### 5.4 Break Statement
-- Stops loop early or breaks out
-- Exits loops and switch cases
-- Immediate effect
-- Alters program flow
-
-## 5 6 odd loop
-
-### 5.6 Odd Loop
-- Runs unknown number of times
-- Condition-driven
-- Uses `while` and `do-while`
-- May use `break` for exit
-- Design carefully to avoid infinite loops
-
-## 5 7 do while loop
-
-### 5.7 Do-while Loop
-- Executes block first, then checks condition
-- Guaranteed at least one iteration
-- Unlike while, first iteration unconditional
-- Update condition to avoid infinite loops
-
-## 5 8 infinite loop
-
-### 5.8 Infinite Loop
-- Endless execution
-- Purposeful or accidental
-- Requires `break` or similar to stop
-- May cause high CPU usage
-
-## 5 iteration loop control structure
-
-## 5. Iteration & Loop Control Structure
-
+- Deep nesting can redu

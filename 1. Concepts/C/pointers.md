@@ -1,3 +1,35 @@
+# Pointers
+
+## Core Idea
+Pointers store addresses and enable direct memory control.
+
+## Why it exists
+Needed for dynamic memory, arrays, linked structures, and APIs.
+
+## Mental Model
+Pointer = address label; dereference = go to that address and read/write.
+
+## Code Pattern
+~~~c
+int x = 10;
+int *p = &x;
+printf("%d\\n", *p);
+~~~
+
+## Common Mistakes
+- Uninitialized pointer dereference
+- Double free / use-after-free
+
+## Interview Angle
+- Pointer arithmetic
+- Arrays vs pointers differences
+
+## Related
+- [[memory_management]]
+- [[arrays]]
+- [[structs]]
+
+## Legacy Notes (archived)
 # pointers
 
 Merged from legacy micro-notes.
@@ -65,8 +97,4 @@ Merged from legacy micro-notes.
     
 
 ```cpp
-int x = 10;
-int *p = &x;
-int &r = x;
-```
-
+int x =

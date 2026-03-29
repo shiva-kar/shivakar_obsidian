@@ -13,17 +13,12 @@
 - [[C/file_io]]
 - [[C/advanced_topics]]
 
-## DSA
-- [[DSA]]
-
-## C++
-- [[C++]]
-
 ## Networking
 - [[Networking/tcp_ip]]
 - [[Networking/sockets]]
 - [[Networking/http]]
 - [[Networking/network_programming]]
+- [[Networking/tcp_server_example]]
 
 ## OS
 - [[OS/processes]]
@@ -31,3 +26,6 @@
 - [[OS/posix_threads]]
 - [[OS/memory_management]]
 - [[OS/scheduling]]
+
+## Problem Solving
+- [[../2. Problem Solving/DSA Practice/reverse_linked_list]]

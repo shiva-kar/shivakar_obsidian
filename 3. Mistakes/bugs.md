@@ -1,34 +1,43 @@
-# Bugs
+# Bugs Log
 
-## Linked List Segmentation Fault
-
-Mistake:
--> Dereferenced an uninitialized node pointer.
-
-Reason:
--> Pointer variable was declared but never initialized before first use.
-
-Fix:
--> Initialize pointers to `NULL`, allocate before dereference, and guard null checks.
-
-## File Handle Leak
+## [C] Segmentation Fault
 
 Mistake:
--> Opened files in a loop without closing them.
+-> Dereferenced a freed or uninitialized pointer.
 
 Reason:
--> Missing `fclose` on early return paths.
+-> Pointer lifetime was not tracked after `free` and initialization was skipped.
 
 Fix:
--> Close handles on all exit paths and centralize cleanup.
+-> Initialize to `NULL`, free once, and set pointer to `NULL` after free.
 
-## Buffer Overflow in String Copy
+Lesson:
+-> Memory safety is a workflow, not a one-time check.
+
+## [C] File Handle Leak
 
 Mistake:
--> Used unsafe copy without bounds check.
+-> Opened files in branches without guaranteed close.
 
 Reason:
--> Assumed source input length always fits destination.
+-> Early returns bypassed cleanup.
 
 Fix:
--> Use bounded APIs, validate lengths, and reserve null terminator space.
+-> Use single-exit cleanup style and always `fclose`.
+
+Lesson:
+-> Every resource acquisition must have an explicit release path.
+
+## [C] Buffer Overflow
+
+Mistake:
+-> Copied user input without bounds checks.
+
+Reason:
+-> Assumed input size would fit destination buffer.
+
+Fix:
+-> Use bounded APIs (`fgets`, length checks) and reserve null terminator.
+
+Lesson:
+-> Trust boundaries matter; validate all external input.

@@ -1,3 +1,34 @@
+# Strings
+
+## Core Idea
+C strings are char arrays terminated by null character.
+
+## Why it exists
+Text processing in C depends on correct null termination and bounds checks.
+
+## Mental Model
+String = array of chars ending with `\\0`.
+
+## Code Pattern
+~~~c
+char name[16] = "Shiva";
+printf("%s\\n", name);
+~~~
+
+## Common Mistakes
+- Missing null terminator
+- Buffer overflow via unsafe copy/read
+
+## Interview Angle
+- fgets vs scanf for input
+- Common string API pitfalls
+
+## Related
+- [[arrays]]
+- [[file_io]]
+- [[memory_management]]
+
+## Legacy Notes (archived)
 # strings
 
 Merged from legacy micro-notes.
@@ -55,84 +86,4 @@ Merged from legacy micro-notes.
 
 ### 10.8 2-D Array of Characters
 - Matrix where each row represents a string
-- Store multiple strings of same maximum length
-- Each string must end with null character `\0`
-- Fixed width defined by column size
-- Access: `charArray[row]` for string, `charArray[row][col]` for character
-
-## 10 strings
-
-## 10. Strings
-
-## character handling functions 2
-
-### **Character Handling Functions**
-
-####  ctype.h Functions
-```c
-#include <stdio.h>
-#include <ctype.h>
-
-int main() {
-    char ch = 'A';
-    
-    printf("isalpha('%c'): %d\n", ch, isalpha(ch));
-    printf("isdigit('%c'): %d\n", ch, isdigit(ch));
-    printf("isupper('%c'): %d\n", ch, isupper(ch));
-    printf("islower('%c'): %d\n", ch, islower(ch));
-    printf("isspace('%c'): %d\n", ch, isspace(ch));
-    
-    // Conversion functions
-    printf("tolower('%c'): %c\n", ch, tolower(ch));
-    printf("toupper('%c'): %c\n", 'b', toupper('b'));
-    
-    return 0;
-}
-```
-
-## string manipulation basics 2
-
-###  **String Manipulation Basics**
-
-####  Basic String Functions
-```c
-#include <stdio.h>
-#include <string.h>
-
-int main() {
-    char str1[20] = "Hello";
-    char str2[20] = "World";
-    char str3[40];
-    
-    // String length
-    printf("Length of '%s': %zu\n", str1, strlen(str1));
-    
-    // String copy
-    strcpy(str3, str1);
-    printf("After strcpy: %s\n", str3);
-    
-    // String concatenation
-    strcat(str3, " ");
-    strcat(str3, str2);
-    printf("After strcat: %s\n", str3);
-    
-    // String comparison
-    int cmp = strcmp(str1, str2);
-    if (cmp < 0) {
-        printf("'%s' comes before '%s'\n", str1, str2);
-    } else if (cmp > 0) {
-        printf("'%s' comes after '%s'\n", str1, str2);
-    } else {
-        printf("Strings are equal\n");
-    }
-    
-    // String search
-    char *found = strchr(str3, 'W');
-    if (found) {
-        printf("Found 'W' at position: %ld\n", found - str3);
-    }
-    
-    return 0;
-}
-```
-
+- Store multi

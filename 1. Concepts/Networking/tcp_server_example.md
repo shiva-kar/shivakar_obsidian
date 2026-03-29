@@ -1,3 +1,30 @@
+# TCP Server Example
+
+## Core Idea
+Concise explanation of the concept and when to use it.
+
+## Why it exists
+Problem this concept solves in real systems.
+
+## Mental Model
+One-line mental picture for quick recall.
+
+## Code Pattern
+~~~c
+// key pattern or API usage
+~~~
+
+## Common Mistakes
+- Misusing API/state assumptions
+
+## Interview Angle
+- Typical questions and tradeoffs
+
+## Related
+- [[network_programming]]
+- [[sockets]]
+
+## Legacy Notes (archived)
 ### 68.2 TCP Server Example (Boost.Asio)
 
 ```cpp

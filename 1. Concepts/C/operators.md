@@ -1,3 +1,35 @@
+# Operators
+
+## Core Idea
+Operators transform values and drive expression evaluation.
+
+## Why it exists
+They are the building blocks of conditions, math, and state updates.
+
+## Mental Model
+Think of operators as tiny functions with precedence and associativity rules.
+
+## Code Pattern
+~~~c
+int a = 5, b = 2;
+int sum = a + b;
+int ok = (a > b) && (b != 0);
+~~~
+
+## Common Mistakes
+- Wrong precedence assumptions
+- Assignment `=` used instead of comparison `==`
+
+## Interview Angle
+- Operator precedence traps
+- Bitwise vs logical operators
+
+## Related
+- [[control_flow]]
+- [[pointers]]
+- [[arrays]]
+
+## Legacy Notes (archived)
 # operators
 
 Merged from legacy micro-notes.
@@ -64,120 +96,3 @@ int main() {
 
 ### 3.2 Assignment Operator
 - `=`: Assigns right-hand value to left-hand operand
-- Example: `int a = 5;`
-
-## 3 2 type declaration instruction
-
-### 3.2 Type Declaration Instruction
-1. Define variable and function data types
-2. Syntax: `data_type variable_name;`
-3. Common types: `int`, `float`, `char`, `double`
-4. Allows immediate assignment: `int count = 10;`
-5. Scope dictates variable visibility
-
-## 3 4 arithmetic instruction
-
-### 3.4 Arithmetic Instruction
-- Variable on left of `=`
-- Right side can have variables, operators, constants
-- Types: Integer Mode, Real Mode, Mixed Mode
-
-## 3 5 integer and float conversions
-
-### 3.5 Integer and Float Conversions
-1. Integer ÷ Integer = Integer
-2. Real ÷ Real = Real
-3. Integer ÷ Real = Real (integer promoted first)
-
-## 3 6 type conversions
-
-### 3.6 Type Conversions
-1. **Implicit**: Automatic type changes when needed
-2. **Promotion**: Smaller types promoted to int
-3. **Assignment**: Type converted to match variable type
-4. **Casting**: Explicit conversion using `(type_name)`
-
-## 3 8 associativity of operations
-
-### 3.8 Associativity of Operations
-- **Operator Precedence**: Evaluation order based on priority
-- **Associativity**: Order for same precedence operators
-- Most operators: Left-to-right
-- Assignment, unary: Right-to-left
-
-## 3 expressions operators
-
-## 3. Expressions & Operators
-
-- Arithmetic, relational, logical, bitwise (same as C)
-    
-- Additional: scope resolution `::`, `.*` and `->*` (pointer-to-member).
-    
-- Overloadable operators (see Operator Overloading section).
-
-## 3 instructions expressions operators
-
-## 3. Instructions, Expressions & Operators
-
-## operators in detail 2
-
-### **Operators in Detail**
-####  Comma Operator
-```c
-#include <stdio.h>
-
-int main() {
-    int a, b, c;
-    
-    // Comma operator example
-    a = (b = 3, c = 4, b + c); // a gets 7
-    printf("a = %d, b = %d, c = %d\n", a, b, c);
-    
-    // In for loops
-    for (int i = 0, j = 10; i < j; i++, j--) {
-        printf("i = %d, j = %d\n", i, j);
-    }
-    
-    return 0;
-}
-```
-
-####  sizeof Operator
-```c
-#include <stdio.h>
-
-int main() {
-    int arr[10];
-    
-    printf("Size of int: %zu bytes\n", sizeof(int));
-    printf("Size of array: %zu bytes\n", sizeof(arr));
-    printf("Number of elements: %zu\n", sizeof(arr) / sizeof(arr[0]));
-    
-    // sizeof with expressions
-    int x = 5;
-    printf("Size of expression: %zu\n", sizeof(x + 3.14));
-    
-    return 0;
-}
-```
-
-#### Conditional Operator
-```c
-#include <stdio.h>
-
-int main() {
-    int a = 10, b = 20;
-    
-    // Basic conditional operator
-    int max = (a > b) ? a : b;
-    printf("Maximum: %d\n", max);
-    
-    // Nested conditional operator
-    int num = -5;
-    char* result = (num > 0) ? "Positive" : (num < 0) ? "Negative" : "Zero";
-    printf("Number is: %s\n", result);
-    
-    return 0;
-}
-```
-
