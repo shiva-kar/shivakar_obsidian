@@ -23,3 +23,30 @@ Consolidated concept from prior micro-notes.
     
 - Range-based for (C++11): `for (auto &x : container) { }`
 
+
+
+## Why it exists
+Real engineering problem this concept solves.
+
+
+## Code Pattern
+```c
+// minimal reusable example
+```
+
+
+## Common Mistakes
+- Misapplying the concept without constraints.
+- Ignoring edge cases and failure paths.
+
+
+## Questions
+- When should I use this instead of an alternative?
+- What edge case is most likely to break this approach?
+
+
+## Related
+- [[templates]]
+- [[stl]]
+- [[memory_management]]
+

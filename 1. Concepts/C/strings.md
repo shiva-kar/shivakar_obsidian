@@ -87,3 +87,9 @@ Merged from legacy micro-notes.
 ### 10.8 2-D Array of Characters
 - Matrix where each row represents a string
 - Store multi
+
+
+## Questions
+- When should I use this instead of an alternative?
+- What edge case is most likely to break this approach?
+

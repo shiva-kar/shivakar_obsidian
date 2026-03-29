@@ -97,3 +97,9 @@ int main() {
 - Use `gcc file -o outputname` to compile
 - Run output file:
   - Windows: `.\o
+
+
+## Questions
+- When should I use this instead of an alternative?
+- What edge case is most likely to break this approach?
+

@@ -98,3 +98,9 @@ Merged from legacy micro-notes.
 - Enables hierarchical condition checks
 - Allows detailed decision paths
 - Deep nesting can redu
+
+
+## Questions
+- When should I use this instead of an alternative?
+- What edge case is most likely to break this approach?
+

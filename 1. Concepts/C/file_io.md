@@ -79,3 +79,9 @@ Merged from legacy micro-notes.
 ### 13.4 File pointer
 - Type: `FILE*`
 - Standard: `stdin`, `stdout`, `s
+
+
+## Questions
+- When should I use this instead of an alternative?
+- What edge case is most likely to break this approach?
+

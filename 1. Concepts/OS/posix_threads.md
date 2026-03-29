@@ -26,3 +26,9 @@ One-line mental picture for quick recall.
 
 ## Legacy Notes (archived)
 ## 30. Threading (with POSIX threads)
+
+
+## Questions
+- When should I use this instead of an alternative?
+- What edge case is most likely to break this approach?
+
