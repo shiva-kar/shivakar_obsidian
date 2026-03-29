@@ -1,1 +1,0 @@
-## 20. Variable Length Arrays (VLAs)

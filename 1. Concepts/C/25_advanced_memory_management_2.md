@@ -1,1 +1,0 @@
-## 25. Advanced Memory Management
