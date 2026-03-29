@@ -2,8 +2,8 @@
   "spellcheck": true,
   "attachmentFolderPath": "0. Assets",
   "pdfExportSettings": {
-    "includeName": true,
-    "pageSize": "A3",
+    "includeName": false,
+    "pageSize": "A4",
     "landscape": false,
     "margin": "2",
     "downscalePercent": 100

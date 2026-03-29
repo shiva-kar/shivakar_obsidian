@@ -11,15 +11,17 @@
             "id": "4df756a2e3c21ac1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Timetable s2.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
+                "file": "Idea  Canvas.canvas",
+                "viewState": {
+                  "x": -520,
+                  "y": -870,
+                  "zoom": -0.6509690611771944
+                }
               },
-              "icon": "lucide-file",
-              "title": "Timetable s2"
+              "icon": "lucide-layout-dashboard",
+              "title": "Idea  Canvas"
             }
           }
         ]
@@ -172,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. 1st SemesterBCA/Untitled.md",
+                "file": "Idea  Canvas.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Idea  Canvas"
             }
           },
           {
@@ -196,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 459
+    "width": 459,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,48 +216,50 @@
       "markdown-importer:Open format converter": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1648366210ed4a83",
+  "active": "4df756a2e3c21ac1",
   "lastOpenFiles": [
+    "02. 1st SemesterBCA/01. Programming in C/Snake Game.md",
+    "Idea  Canvas.canvas",
+    "Ideas.md",
+    "GODOT COMPONENT SYSTEMS (ECS - sort of).md",
+    "PC Tech Tutorials/🖥️ Comprehensive Keyboard Shortcuts Guide (200+ Shortcuts).md",
+    "Internshala skills.md",
+    "0. Assets/0. Assets.md",
+    "README.md.md",
+    "Excalidraw/Drawing 2026-03-11 17.29.40.excalidraw.md",
+    "Excalidraw",
+    "02. 1st SemesterBCA/01. Programming in C/C Keywords Explain.md",
+    "Drawing 2026-03-11 15.39.25.excalidraw.md",
+    "02. 1st SemesterBCA/01. Programming in C/Complete C Language.md",
+    "02. 1st SemesterBCA/01. Programming in C/Data Structurers.md",
+    "02. 1st SemesterBCA/01. Programming in C/C_Programming_Notes.pdf",
+    "02. 1st SemesterBCA/01. Programming in C/Practice C Problems....md",
+    "02. 1st SemesterBCA/01. Programming in C/Syllabus.png",
+    "02. 1st SemesterBCA/03. Computer and Information Technology/Syllabus.png",
+    "02. 1st SemesterBCA/01. Programming in C/Modules Plan/Preparation – Programming in C.md",
+    "02. 1st SemesterBCA/01. Programming in C/PFC UNIT PDFs/PFC ALL UNIT - Highlights.md",
+    "exercism.org.md",
+    "5 - Year Software Engineering Roadmap (C, C++, Java, CSharp, Python).md",
+    "Timetable sem2.md",
+    "Timeline Full.md",
+    "Z - Game Plan/Untitled Kanban.md",
+    "Z - Game Plan",
+    "Exercises (MON - SAT Full Body).md",
     "01. important Items/GitHub README.md.md",
     "03. 1st SemesterBCA/Untitled.md",
     "Programming in C++/C++ Unreal.md",
-    "Timetable s2.md",
-    "Timeline.md",
-    "5 - Year Software Engineering Roadmap (C, C++, Java, CSharp, Python).md",
     "01. Amity Online/Amity- Assessment_schema_PG_and_UG_-Jan-2025 Onwards.pdf",
     "01. Amity Online/Amity Info Mail.md",
     "02. Amity Online/Academic Calendar_ Sem I.pdf",
-    "02. 1st SemesterBCA/01. Programming in C/Snake Game.md",
-    "02. 1st SemesterBCA/01. Programming in C/Syllabus.png",
     "03. 1st SemesterBCA/01. Programming in C/Programming in C Book.pdf",
-    "02. 1st SemesterBCA/01. Programming in C/Practice C Problems....md",
-    "02. 1st SemesterBCA/01. Programming in C/Data Structurers.md",
-    "02. 1st SemesterBCA/02. Maths/Full maths roadmap.md",
-    "02. 1st SemesterBCA/03. Computer and Information Technology/Modules Plan/All comprehensive topics~.md",
-    "02. 1st SemesterBCA/05. BC/Exam Study Guide- Module 1 ~ Essential English Grammar.md",
     "02. 1st SemesterBCA/01. Programming in C/PFC UNIT PDFs/PFC UNIT - 1.pdf",
-    "02. 1st SemesterBCA/01. Programming in C/PFC UNIT PDFs/PFC ALL UNIT - Highlights.md",
     "03. 1st SemesterBCA/00. BCA Notes/Maths/Basic Mathematics - 1 - Sample QP.pdf",
     "03. 1st SemesterBCA/00. BCA Notes/CSIT_/CSIT Notes.pdf",
     "03. 1st SemesterBCA/00. BCA Notes/C programming_/Let us c - yashwantkanetkar.pdf",
-    "03. 1st SemesterBCA/00. BCA Notes/C programming_/Expert_C_Programming.pdf",
-    "03. 1st SemesterBCA/00. BCA Notes/C programming_/C Notes.pdf",
-    "03. 1st SemesterBCA/00. BCA Notes/BC/Business Communication Notes (2).pdf",
-    "02. 1st SemesterBCA/01. Programming in C/C Keywords Explain.md",
-    "02. 1st SemesterBCA/01. Programming in C/Complete C Language.md",
-    "02. 1st SemesterBCA/05. BC/Exam Study Guide- Module 4 ~ Effective Presentation.md",
-    "02. 1st SemesterBCA/05. BC/Exam Study Guide- Module 5 ~ Employment Communication.md",
-    "02. 1st SemesterBCA/05. BC/Exam Study Guide- Module 3 ~ Concept and Nature of Communication.md",
-    "02. 1st SemesterBCA/05. BC/Exam Study Guide- Module 2 ~ Written English Communication.md",
-    "Government Jobs/TOP GOVERNMENT JOBS FOR BCA  IT GRADUATES.md",
-    "Government Jobs/Career Options after BCA.md",
-    "PC Tech Tutorials/🖥️ Comprehensive Keyboard Shortcuts Guide (200+ Shortcuts).md",
-    "Programming in C#/Complete Unity C-Sharp Game Development.md",
-    "Programming in C#/Complete C-Sharp Language — From Zero to Mastery (Updated for .NET 9).md",
-    "02. 1st SemesterBCA/01. Programming in C/Modules Plan/Preparation – Programming in C.md",
     "03. 1st SemesterBCA/IdeaBoard.canvas",
     "1st SemesterBCA/IdeaBoard.canvas",
     "1st SemesterBCA/Programming in C/Syllabus.png",
@@ -265,8 +270,6 @@
     "0. Assets/Screenshot 2025-10-13 112839.png",
     "0. Assets/Screenshot 2025-10-13 112902.png",
     "0. Assets/Screenshot 2025-10-13 112849.png",
-    "0. Assets/Screenshot 2025-10-13 112953.png",
-    "GameDev/IdeaCanvas.canvas",
-    "Untitled.canvas"
+    "GameDev/IdeaCanvas.canvas"
   ]
 }

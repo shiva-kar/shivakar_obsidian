@@ -10,11 +10,7 @@
     "highTextContrast": false
   },
   "knownTags": {
-    "define": 1,
-    "else": 2,
-    "endif": 3,
-    "ifdef": 5,
-    "ifndef": 6
+    "excalidraw": 1
   },
   "tagColors": {},
   "_version": 4

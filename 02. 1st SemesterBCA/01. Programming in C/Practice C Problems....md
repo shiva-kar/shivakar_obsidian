@@ -109,9 +109,9 @@ Here is your complete list of practice problems, unified into a consistent check
     
 - [x] **39.** Create a program to print the Fibonacci series up to a certain number. ✅ 2026-01-31
     
-- [ ] **40.** Create a program to check if a number is an Armstrong number.
+- [x] **40.** Create a program to check if a number is an Armstrong number. ✅ 2026-03-11
     
-- [ ] **41.** Create a program to verify if a number is a palindrome.
+- [x] **41.** Create a program to verify if a number is a palindrome. ✅ 2026-03-11
     
 - [x] 42. Create a program that prints the following patterns: ✅ 2026-01-31
     
