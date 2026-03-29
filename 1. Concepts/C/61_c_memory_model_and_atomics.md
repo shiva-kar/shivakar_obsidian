@@ -1,1 +1,0 @@
-## 61. C++ Memory Model and Atomics

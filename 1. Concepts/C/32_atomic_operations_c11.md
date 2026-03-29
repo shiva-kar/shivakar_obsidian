@@ -1,1 +1,0 @@
-## 32. Atomic Operations (C11)
