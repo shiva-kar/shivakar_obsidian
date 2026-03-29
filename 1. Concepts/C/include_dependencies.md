@@ -1,0 +1,2 @@
+# Include dependencies
+-include $(DEPENDS)
