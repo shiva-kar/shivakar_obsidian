@@ -1,1 +1,0 @@
-## 2. Variables, Data Types & Input/Output

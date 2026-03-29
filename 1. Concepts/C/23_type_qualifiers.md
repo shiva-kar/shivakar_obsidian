@@ -1,1 +1,0 @@
-## 23. Type Qualifiers
